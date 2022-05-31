@@ -1,0 +1,45 @@
+<html>
+<head><title>Personajes</title></head>
+<body background="fondo para personajes.gif">
+<font face=harrington color=white>
+<embed src="audio personajes.mp3" autostart=true>
+<p align=center><font size=20>Personajes de "Loki"</font></p>
+<p align=center><font size=7>
+<ul type=square>
+ <li>Loki</li>
+  <ul type=circle>
+    <li>Intepretado por Tom Hidleston</li>
+    <li>Creado por el escritor Stan Lee, el guionista Larry Lieber y el dibujante Jack Kirby</li>
+    <li>Personaje principal de la serie</li>
+    <li>Hijo de Odin "el padre de todo" y Frigga, Hermano de Thor</li>
+    <li>Su primera aparicion dentro del UCM fue en Thor(pelicula en solitario de Thor) y en los comics fue en Journey into Mystery #85 (octubre de 1962)</li>
+    <li>Aparentemente fue asesinado por el Titan Loco Thanos en Avengers:Infinity War pero gracias a su popularidad se cree que seguira apariciones en diferentes producciones de la empresa
+    <li>Se estima la segunda temporada de su serie para el 2023</li>
+   </ul>
+  <li>Sylvie</li>
+   <ul type=circle>
+    <li>Interpretada por Shopia Di Martino</li>
+    <li>Se cambio el nombre a Sylvie Laufeydottir ya que originalmente se llamaba Loki Laufeydottir</li>
+    <li>Variante de Loki Laufeyson</li>
+    <li>Capturada desde niña por la TVA</li>
+    <li>Su plan de acabar con la TVA fue interrumpido por Loki Laufeyson</li>
+    <li>En una mision por sobrevivir formo una relacion romantica con su version masculina</li>
+    <li>Junto a Loki Laufeyson llego hasta Aquel que Permanece(creador de la TVA)
+    <li>Asesino a este ultimo liberando al Multiverso y a Kang</li>
+   </ul>
+  <li>Aquel que permanece</li>
+   <ul type=circle>
+    <li>De Nombre Nathaniel Richards es el creador de la TVA tras la guerra multiversal de Kang(su variante) y aun mas variantes</li>
+    <li>Es decendiente de Reed Richards(Mr. Fantastico)</li>
+    <li>Sabia todo lo que iba a ocurrir en todos los multiversos aunque esto lo sabia solo antes del umbral, pasando eso ya no tenia conocimiento de que ocurriria</li>
+    <li>Asesinado por Silvie</li>
+   </ul>
+  <li>Mobius</li>
+   <ul type=circle>
+    <li>Analista en la TVA especializado en la caza de variantes peligrosas</li>
+    <li>Gracias a el Loki no fue "podado", y en su lugar se convirtio en agente de la TVA</li>
+    <li>Al descurbrir los verdaderos planes de la TVA se unio a los Lokis y llegaron hasta "Aquel que permanece"</li>
+    <li>Un personaje muy carismatico y alegre</li>
+</ul>
+</font></p><br>
+<center><embed src="video personajes.mp4" width=400 height=250 autostart=false></center>
